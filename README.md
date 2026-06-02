@@ -125,10 +125,10 @@ me.say_hi()
 
 ## 🎓 Education
 
-| Degree | 
-|--------|
-| 🎓 **MCA** (Master in Computer Applications) |
-| 🎓 **BCA** (Bachelor in Computer Applications) |
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 **MCA** (Master in Computer Applications) | MACFAST, Tiruvalla | 2024 – 2026 |
+| 🎓 **BCA** (Bachelor in Computer Applications) | Mar Gregorios College, Punnapra | 2020 – 2023 |
 
 ---
 
@@ -146,6 +146,20 @@ me.say_hi()
   ✅ Analytical Thinking  ✅ Adaptability
   🌐 Languages: English · Malayalam
 ```
+
+---
+
+---
+
+## 📌 Professional Highlights
+
+- 🎓 Pursuing **MCA** with a focus on software engineering and backend development
+- 🌿 Built a **machine learning model** to detect plant diseases using image processing — a real-world AI application
+- 🏥 Developed a **full-stack clinic management system** with secure authentication and data management
+- 🔗 Proficient in building **REST APIs** with Django for scalable backend solutions
+- 📜 Certified in **Python Web Development** and **Data Science** (NPTEL)
+- 🤝 Strong believer in clean code, collaboration, and continuous improvement
+- 🔍 Actively seeking **entry-level Software Engineer** opportunities
 
 ---
 
