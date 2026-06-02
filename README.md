@@ -125,11 +125,10 @@ me.say_hi()
 
 ## 🎓 Education
 
-| Degree | Institution | Year |
-|--------|-------------|------|
-| 🎓 **MCA** (Master in Computer Applications) | MACFAST, Tiruvalla | 2024 – 2026 |
-| 🎓 **BCA** (Bachelor in Computer Applications) | Mar Gregorios College, Punnapra | 2020 – 2023 |
-| 📚 Higher Secondary Education | Aravukad HSS, Punnapra | 2018 – 2020 |
+| Degree | 
+|--------|
+| 🎓 **MCA** (Master in Computer Applications) |
+| 🎓 **BCA** (Bachelor in Computer Applications) |
 
 ---
 
